@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title>{{ page.title }}</title>
+
+			<!-- conditional inclusion of MathJax -->
+			{% if true %}
+			<script type="text/x-mathjax-config">
+  				MathJax.Hub.Config({
+	    			tex2jax: {
+	    				inlineMath: [["$","$"],["\\(","\\)"]]
+	    			}
+				});
+			</script>
+			<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_HTML-full">
+			</script>
+			{% endif %}
+
+			<!-- link to main stylesheet -->
+			<link rel="stylesheet" type="text/css" href="/css/main.css">
+		</head>
+		<body>
+			<nav>
+	    		<ul>
+	        		<li><a href="/">Home</a></li>
+				<li><a href="/videos">Videos</a></li>
+	    		</ul>
+			</nav>
+			<div class="container">
+			
+			{{ content }}
+			
+			</div><!-- /.container -->
+			<footer>
+	    		<ul>
+	        		<li><a href="https://github.com/thabbott">github.com/thabbott</a></li>
+				</ul>
+			</footer>
+		</body>
+	</html>
