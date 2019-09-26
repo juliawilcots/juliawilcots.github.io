@@ -1,8 +1,6 @@
 body {
     margin: 60px auto;
     width: 45rem;
-    background-color: orange;
-    font-color: tomato;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -16,10 +14,11 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: orange;
 }
 a:hover {
     text-decoration: underline;
+    color: tomato;
 }
 h1 {
     font-size: 2rem;
