@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Example post"
-date: 2019-09-25
+date: 2019-09-24
 ---
 
 Use this file as a template for other posts.
