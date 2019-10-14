@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "Neoproterozoic Mesostratigraphy"
-date: 2019-10-14
+title: "Neoproterozoic Mesostratigraphy: The idea"
+date: 2019-10-10
 ---
-Last Thursday I suggested an idea that's been floating around in my brain to Kristin. She was intrigued (I think) and told me to come up with a plan (because neither of us are sure it will work).
+(I am "posting" this on the 10/10 post because that's when the conversation actually occurred, but I'm writing this post on 10/14)
+
+Today I suggested an idea that's been floating around in my brain to Kristin. She was intrigued (I think) and told me to come up with a plan (because neither of us are sure it will work).
 
 The idea started last fall when I somehow got it into my head that you might be able to represent stratigraphic columns as (directed) graphs and that might be a useful way of thinking about sequences of rocks. I think you can definitely represent columns as graphs, but whether or not that is useful is still a question I have.
 
