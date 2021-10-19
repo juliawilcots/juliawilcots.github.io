@@ -31,6 +31,7 @@ h2 {
 p {
     font-size: 1rem;
     line-height: 1rem;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #333;
 }
 .MathJax {
@@ -39,6 +40,7 @@ p {
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8rem;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
 ul.posts { 
