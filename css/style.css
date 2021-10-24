@@ -12,7 +12,7 @@ body {
 .menu li:first-child a { 
   padding-left: 0;
   font-weight: bold;
-  color: #003399
+  color: orange
 }
 .menu a {
   text-decoration: none;
