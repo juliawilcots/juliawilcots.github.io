@@ -5,6 +5,11 @@ body {
   line-height: 1.5em;
 }
 
+/* trying this for word wrap */
+div {
+  word-wrap: break-word;
+}
+
 /* header and footer areas */
 .menu { padding: 0; }
 .menu li { display: inline-block; }
